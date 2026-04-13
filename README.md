@@ -5,7 +5,7 @@ Homebrew tap for installing [girlfriend-in-cli](https://github.com/NomaDamas/gir
 ## Install
 
 ```bash
-brew tap NomaDamas/brew-girlfriend-in-cli
+brew tap NomaDamas/girlfriend-in-cli https://github.com/NomaDamas/brew-girlfriend-in-cli.git
 brew install girlfriend-in-cli
 ```
 
