@@ -3,8 +3,8 @@ class GirlfriendInCli < Formula
 
   desc "Terminal-native romance simulator for vibe coders"
   homepage "https://github.com/NomaDamas/girlfriend-in-cli"
-  url "https://github.com/NomaDamas/girlfriend-in-cli/archive/refs/tags/v0.1.3.4.tar.gz"
-  sha256 "d16514d3da0730abc64ac95f9ab432186f04a09a421b6b86e0aae771d229fafb"
+  url "https://github.com/NomaDamas/girlfriend-in-cli/archive/refs/tags/v0.1.3.5.tar.gz"
+  sha256 "86904d74aa24ddd11b9b1b51dda9f28c08aefa5d0825b51227f84ed83d563037"
   license "Elastic-2.0"
 
   depends_on "python@3.12"
